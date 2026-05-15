@@ -1,9 +1,6 @@
 streamlit
-langchain
-langchain-community
-langchain-openai
 openai
-faiss-cpu==1.7.4
 python-dotenv
 pypdf
 tiktoken
+faiss-cpu==1.7.4
